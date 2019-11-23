@@ -1,0 +1,29 @@
+body{
+	position: absolute;
+	background-color: #FFDEAD;
+	font-family: sans-serif;
+	text-align: center;
+	height: 100%;
+	width: 100%;
+}
+
+h1{
+	font-size: 5vw;
+}
+
+form{
+	position: relative;
+	text-align: right;
+	width: 50%;
+	left: 25%;
+}
+input{
+	position: relative;
+	width: 50%;
+}
+
+input.ralig{
+	position: relative;
+	width: 50%;
+	right: 25%;
+}
